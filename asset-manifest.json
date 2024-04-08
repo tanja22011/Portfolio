@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a6b06c19.css",
+    "main.js": "/portfolio/static/js/main.19b9b41a.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/portfolio/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/omakuva.jpg": "/portfolio/static/media/omakuva.b17bfba3e1765d721830.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.a6b06c19.css.map": "/portfolio/static/css/main.a6b06c19.css.map",
+    "main.19b9b41a.js.map": "/portfolio/static/js/main.19b9b41a.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/portfolio/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b06c19.css",
+    "static/js/main.19b9b41a.js"
+  ]
+}
